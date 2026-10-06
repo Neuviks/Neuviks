@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Sikaverts",
+    "base_url": "https://sikaverts.github.io",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "160",
+    "logo_height": "45",
+    "logo_text": "Sikaverts"
+  },
+  "settings": {
+    "sticky_header": true
+  },
+  "params": {
+    "contact_form_action": "#",
+    "checklist_form_action": "#",
+    "apply_form_action": "#",
+    "copyright": "Copyright &copy; 2026 <strong>Sikaverts</strong>. All Rights Reserved.",
+    "footer_tagline": "Building modern websites, custom software, AI/ML solutions, and intelligent digital products.",
+    "footer_email": "your-email@example.com",
+    "footer_phone": "+91 XXXXX XXXXX"
+  },
+  "navigation_button": {
+    "enable": true,
+    "label": "Start Your Project",
+    "link": "/contact"
+  },
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+  "metadata": {
+    "meta_author": "Sikaverts",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Sikaverts builds modern websites, custom software, AI/ML applications, automation solutions, and intelligent digital products."
+  }
+}
